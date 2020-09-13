@@ -1,0 +1,23 @@
+{
+  "name": "updated-portfolio-page",
+  "version": "1.0.0",
+  "description": "This is a demostration on a brief about me and how this page is delevoped. The video below will show how the coding functions work and the result to the finishing page.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BriF0890/Updated-Portfolio-Page.git"
+  },
+  "author": "Brianca Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BriF0890/Updated-Portfolio-Page/issues"
+  },
+  "homepage": "https://github.com/BriF0890/Updated-Portfolio-Page#readme"
+}
