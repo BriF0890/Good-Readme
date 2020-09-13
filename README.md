@@ -22,3 +22,7 @@ const util = require("util");
 ======
 * License
 - MIT
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 4a2b416236c78ad27aabf0c932b25da6b6f20205
