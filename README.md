@@ -1,35 +1,41 @@
 # Updated-Portfolio-Page
 
-* Description
-This is a demostration on a brief about me and how this page is delevoped. The video below will show how the coding functions work and the result to the finishing page.
+Description
+
+-This is a demostration on a brief about me and how this page is delevoped. The video below will show how the coding functions work and the result to the finishing page.
 
 ======
 
-* Video
-https://drive.google.com/file/d/16WZk0t-OEmJgLXP9m9imH4XiwLRjJxvB/view
+Video
+
+-https://drive.google.com/file/d/16WZk0t-OEmJgLXP9m9imH4XiwLRjJxvB/view
 
 ======
 
-* Table of Contents
+ Table of Contents
+ 
   -Breakdown of info need
   -Answering the questions
   -Showing the finished coding for the HTML
   
 ======
 
-* Installation
+Installation
+
 - Inquirer
 - Bookstrap
 
 ======
 
-* Usage
+Usage
+
 - const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 
 ======
 
-* License
+License
+
 - MIT
 
