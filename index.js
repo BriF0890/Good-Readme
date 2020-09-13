@@ -2,16 +2,6 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 
-fs.readFile("data.csv", "utf8", function(error, data) {
-
-    if (error) {
-      return console.log(error);
-    }
-  
-    console.log(data);
-  
-  });
-
 const writeFileAsync = util.promisify(fs.writeFile);
 
 function promptUser() {
